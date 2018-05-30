@@ -4,7 +4,10 @@
   "description": "webpack 搭建vue脚手架",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server  --config build/webpack.dev.conf.js",
+    "start": "npm run dev",
+    "build": "node build/build.js"
   },
   "repository": {
     "type": "git",
