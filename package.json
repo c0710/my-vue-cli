@@ -1,0 +1,19 @@
+{
+  "name": "my-vue-cli",
+  "version": "1.0.0",
+  "description": "webpack 搭建vue脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0710/my-vue-cli.git"
+  },
+  "author": "Evannn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c0710/my-vue-cli/issues"
+  },
+  "homepage": "https://github.com/c0710/my-vue-cli#readme"
+}
